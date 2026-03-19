@@ -8,44 +8,57 @@
 
 ---
 
-<h1 align="center">⚜️ Sobre Mim ⚜️</h1>
+<h1 align="center">⚜️ About me ⚜️</h1>
 
-<p align="center">Meu nome é João Victor Marcondes da Silva, tenho 20 anos e sou natural do Paraná. Concluí o ensino médio e, motivado pelo interesse crescente na área de tecnologia, iniciei minha trajetória no setor de desenvolvimento de software ao cursar o técnico em Análise e Desenvolvimento de Sistemas pelo Senai, formação que concluí com foco em fundamentos de programação, lógica computacional, modelagem de sistemas e práticas de desenvolvimento voltadas ao ambiente corporativo.<br>
-Atualmente, estou na 3ª série cursando Engenharia de Software na UniCesumar, onde aprofundo meus conhecimentos nas etapas completas do ciclo de vida do software, incluindo arquitetura de sistemas, engenharia de requisitos, desenvolvimento orientado a objetos, banco de dados, padrões de projeto e metodologias ágeis.</p>
-
-<div align="center">
-
-  ## 📫 Contatos
-
-  <a href="https://www.linkedin.com/in/joãovictormarcondes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
-  </a>
-  <a href="mailto:joaovictormarcondes28@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo" />
-  </a>
-
-</div>
+<p align="center">Meu nome é João Victor Marcondes da Silva, tenho 21 anos e sou natural do Paraná. Concluí o ensino médio e, motivado pelo interesse     crescente na área de tecnologia, iniciei minha trajetória no setor de desenvolvimento de software ao cursar o técnico em Análise e Desenvolvimento de Sistemas pelo Senai, formação que concluí com foco em fundamentos de programação, lógica computacional, modelagem de sistemas e práticas de desenvolvimento voltadas ao ambiente corporativo.<br><br>
+Atualmente, estou na 3ª série cursando Engenharia de Software na UniCesumar, onde aprofundo meus conhecimentos nas etapas completas do ciclo de vida do software, incluindo arquitetura de sistemas, engenharia de requisitos, desenvolvimento orientado a objetos, banco de dados, padrões de projeto e metodologias ágeis.
+</p>
 
 ---
 
+<h2 align="center">🌐 Where to find me</h2>
+
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
-    
-### 💻 Linguagens
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c,mysql)](https://skillicons.dev)
 
-### 🛠️ Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
-
-### ⚙️ Frameworks & Bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joãovictormarcondes)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joao-Victorx)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaovictormarcondes28@gmail.com)
 
   </div>
 </div>
 
 ---
 
-<h2 align="center"> 📊 Estatísticas do GitHub</h2>
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+### Tools
+
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+  </div>
+</div>
+
+---
+
+<h2 align="center"> 📊 GitHub Stats</h2>
 
 <div align="center">
   
