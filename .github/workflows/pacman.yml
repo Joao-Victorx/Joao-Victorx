@@ -1,30 +1,26 @@
 name: Generate Pacman Contribution Graph
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
-
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     permissions:
       contents: write
 
     steps:
-      - name: Generate Pacman Graph
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Pacman
+        uses: Platane/snk@v3
         with:
           github_user_name: Joao-Victorx
           outputs: |
-            dist/pacman-contribution-graph.svg?palette=github-light&animation=pacman
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark&animation=pacman
+            dist/pacman.svg?palette=github-dark&animation=pacman
 
-      - name: Push Pacman Graph
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
           publish_dir: ./dist
+          publish_branch: output
