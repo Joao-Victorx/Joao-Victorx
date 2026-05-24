@@ -18,12 +18,11 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Joao-Victorx
-
           outputs: |
             dist/pacman-contribution-graph.svg?palette=github-light&animation=pacman
             dist/pacman-contribution-graph-dark.svg?palette=github-dark&animation=pacman
 
-      - name: Push to output branch
+      - name: Push Pacman Graph
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
