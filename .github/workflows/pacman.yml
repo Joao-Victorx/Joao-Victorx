@@ -8,24 +8,24 @@ on:
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
-    runs-on: ubuntu-latest
-
     steps:
-      - name: Generate pacman graph
-        uses: Platane/snk@v3
+      - name: Generate Pacman Graph
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Joao-Victorx
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - name: Push pacman graph
-        uses: crazy-max/ghaction-github-pages@v4
+          outputs: |
+            dist/pacman-contribution-graph.svg?palette=github-light&animation=pacman
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark&animation=pacman
+
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
