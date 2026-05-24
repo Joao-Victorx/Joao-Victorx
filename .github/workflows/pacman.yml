@@ -2,7 +2,8 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "*/6 * * * *"
+    # roda a cada 6 horas
+    - cron: "0 */6 * * *"
   workflow_dispatch: # Permite rodar manualmente
   push:
     branches:
@@ -20,6 +21,9 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          output_dir: dist
+          theme: dark                     
+          theme_line_color: "#1f2328"
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
