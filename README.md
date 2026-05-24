@@ -1,73 +1,86 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=110&color=0000ff)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=850&lines=Hello!+My+name+is+Jo%C3%A3o;I+am+a+Software+Engineering+Student;Be+Welcome!)](https://git.io/typing-svg)
 
-<div align="center">
-  
-  <b>`Desenvolvedor Front-End`</b>
-</div>
-
 ---
 
-<h1 align="center">⚜️ About me ⚜️</h1>
-
-<p align="center">Meu nome é João Victor Marcondes da Silva, tenho 21 anos e sou natural do Paraná. Concluí o ensino médio e, motivado pelo interesse     crescente na área de tecnologia, iniciei minha trajetória no setor de desenvolvimento de software ao cursar o técnico em Análise e Desenvolvimento de Sistemas pelo Senai, formação que concluí com foco em fundamentos de programação, lógica computacional, modelagem de sistemas e práticas de desenvolvimento voltadas ao ambiente corporativo.<br><br>
-Atualmente, estou na 3ª série cursando Engenharia de Software na UniCesumar, onde aprofundo meus conhecimentos nas etapas completas do ciclo de vida do software, incluindo arquitetura de sistemas, engenharia de requisitos, desenvolvimento orientado a objetos, banco de dados, padrões de projeto e metodologias ágeis.
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  Olá, eu sou João Victor!
+</h1>
+<p>
+  Desenvolvedor Front-End focado na criação de interfaces modernas,
+  responsivas e intuitivas. Apaixonado por tecnologia e desenvolvimento web,
+  busco transformar ideias em soluções funcionais e visualmente atrativas,
+  sempre priorizando boas práticas, organização de código e experiência do usuário.
 </p>
+<h4 align="center">🚀 Desenvolvedor Front-End | HTML • CSS • JavaScript • Bootstrap • MySQL • Git • GitHub</h4>
 
 ---
 
-<h2 align="center">🌐 Where to find me</h2>
+<h3 align="center">🛠 Language and Tools</h3>
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joãovictormarcondes)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joao-Victorx)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaovictormarcondes28@gmail.com)
-
-  </div>
+  <table>
+    <tr>
+      <td align="center"><b>Frontend</b><br><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" /></td>
+      <td align="center"><b>Backend</b><br><img src="https://skillicons.dev/icons?i=java,c,mysql" /></td>
+      <td align="center"><b>DevOps and Tools</b><br><img src="https://skillicons.dev/icons?i=git,vscode" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-### Tools
-
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-  </div>
-</div>
+### 👾 Minha Contribuição no GitHub
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Joao-Victorx/Joao-Victorx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Joao-Victorx/Joao-Victorx/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph"
+    src="https://raw.githubusercontent.com/Joao-Victorx/Joao-Victorx/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
-<h2 align="center"> 📊 GitHub Stats</h2>
-
-<div align="center">
-  
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joao-Victorx&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joao-Victorx&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joao-Victorx&theme=github_dark&utcOffset=8) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joao-Victorx&theme=github_dark) |
-| :-: |
-
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 10px;">
+  <div style="flex: 1; width: 50%;">
+        <img align="left" width="50%" alt="Se você está vendo isso, significa que minhas métricas não estão funcionando." src="https://github.com/Joao-Victorx/Joao-Victorx/blob/main/metrics.svg?raw=true">
 </div>
 
-![](https://capsule-render.vercel.app/api?type=waving&height=110&color=0000ff&section=footer)
+<div style="flex: 1; width: 50%; text-align: left; margin-left: 10px;">
+  <h3>🌎 Vamos nos Conectar e Crescer Juntos!</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/joãovictormarcondes" target="_blank" style="text-decoration: none">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn">
+    </a>
+    </a>
+    <a href="mailto:joaovictormarcondes28@gmail.com" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://github.com/Joao-Victorx" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+  </p>
+
+  <h3>✨ Curiosidades</h3>
+  <ul>
+    <li>💻 Apaixonado por tecnologia, desenvolvimento web e criação de interfaces modernas</li>
+    <li>🚀 Atualmente cursando Engenharia de Software e sempre buscando evoluir minhas habilidades</li>
+    <li>📚 Gosto de aprender novas tecnologias e desenvolver projetos para aprimorar meus conhecimentos</li>
+  </ul>
+
+  <h3>💡🎨 Minha Forma de Trabalhar</h3>
+  <p>
+    Como desenvolvedor Front-End, busco criar aplicações modernas, responsivas e intuitivas, focando sempre na experiência do usuário e na organização do código.
+    Tenho interesse em desenvolvimento web, interfaces interativas, APIs e boas práticas de programação, buscando construir soluções eficientes e escaláveis.
+  </p>
+
+  <h3>🧑‍💻 Sobre Mim</h3>
+  <p>
+    Meu nome é João Victor Marcondes da Silva, tenho 21 anos e sou do Paraná.
+    Sou estudante de Engenharia de Software na UniCesumar e técnico em Análise e Desenvolvimento de Sistemas pelo Senai.
+    Tenho conhecimentos em JavaScript, HTML, CSS, Bootstrap, Git, GitHub, MySQL, Java e desenvolvimento web em geral.
+    Atualmente busco crescer profissionalmente na área de tecnologia, adquirindo experiência prática e evoluindo constantemente como desenvolvedor.
+  </p>
+</div>
