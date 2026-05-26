@@ -81,3 +81,5 @@
     Atualmente busco crescer profissionalmente na área de tecnologia, adquirindo experiência prática e evoluindo constantemente como desenvolvedor.
   </p>
 </div>
+
+![](https://capsule-render.vercel.app/api?type=waving&height=110&color=0000ff&section=footer)
