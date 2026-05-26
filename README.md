@@ -3,10 +3,8 @@
 
 ---
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  Olá, eu sou João Victor!
-</h1>
+<h1 align="center">💻 Olá, eu sou João Victor!</h1>
+
 <p align="center">
   Desenvolvedor Front-End focado na criação de interfaces modernas,
   responsivas e intuitivas. Apaixonado por tecnologia e desenvolvimento web,
