@@ -32,7 +32,9 @@
 <h3>👾 Minha Contribuição no GitHub</h3>
 
 <picture>
-  <img alt="GitHub Contribution Pacman" src="https://raw.githubusercontent.com/Joao-Victorx/Joao-Victorx/main/github-contribution-grid-pacman.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joao-Victorx/Joao-Victorx/output/github-contribution-grid-pacman.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joao-Victorx/Joao-Victorx/output/github-contribution-grid-pacman.svg">
+  <img alt="GitHub Contribution Pacman" src="https://raw.githubusercontent.com/Joao-Victorx/Joao-Victorx/output/github-contribution-grid-pacman.svg">
 </picture>
 
 ---
