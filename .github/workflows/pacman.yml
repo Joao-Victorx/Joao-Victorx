@@ -19,10 +19,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Pacman Animation
-        uses: lowlighter/metrics@latest
+        uses: sccoder/github-readme-pacman@main
         with:
-          filename: github-contribution-grid-pacman.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Push Changes
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
