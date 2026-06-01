@@ -18,10 +18,13 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Generate Pacman Animation
-        uses: sccoder/github-readme-pacman@main
+      - name: Generate Pacman SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-pacman.svg?palette=github-light&color_snake=#pacman
+            dist/github-contribution-grid-pacman-dark.svg?palette=github-dark&color_snake=#pacman
 
       - name: Push Changes
         uses: crazy-max/ghaction-github-pages@v4
